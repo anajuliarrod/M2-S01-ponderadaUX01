@@ -30,10 +30,13 @@
 
 *Posicione aqui sua(s) Persona(s) em forma de texto markdown com imagens, ou como imagem de template preenchido. Atualize esta seção ao longo do módulo se necessário.*
 
-    ![Persona 1](Users/Inteli/Documents/GitHub/M2/assets/uxPersona1.jpg)
-    ![Persona 2](Users/Inteli/Documents/GitHub/M2/assets/uxPersona2.jpg)
-    ![Persona 3](Users/Inteli/Documents/GitHub/M2/assets/uxPersona3.jpg)
-    ![Persona 4](Users/Inteli/Documents/GitHub/M2/assets/uxPersona4.jpg)
+![Persona 1](assets/uxPersona1.jpg)
+
+![Persona 2](assets/uxPersona2.jpg)
+
+![Persona 3](assets/uxPersona3.jpg)
+
+![Persona 4](assets/uxPersona4.jpg)
 
 ### 2.2. User Stories (Semana 01)
 
