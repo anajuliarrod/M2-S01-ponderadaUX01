@@ -21,6 +21,10 @@
 *Preencha com até 300 palavras – sem necessidade de fonte.*
 *Descreva brevemente o sistema que você irá desenvolver.*
 
+&emsp; Em seu sistema de inspeções prediais, o IPT (Instituto de Pesquisas Tecnológicas) enfrenta dificuldades por ainda adotar métodos antigos na produção de seus relatórios. No local da inspeção, profissionais como engenheiros, físicos ou técnicos registram suas observações em papéis ou em plataformas que não estão integradas com a organização documental do projeto. Com isso, o processo atual não é eficaz, pois não conecta diretamente as informações de campo ao protótipo do relatório final, além de gerar retrabalho e atrasos nas revisões das inspeções.
+&emsp; Por isso, será desenvolvida uma aplicação web para facilitar esse processo, entendendo as dores e necessidades do parceiro e formulando uma plataforma que integre todas as melhorias, convertidas em um modelo de relatório mais organizado, agilizando a revisão final.
+
+
 ---
 
 ## <a name="c2"></a>2. Visão Geral da Aplicação Web
