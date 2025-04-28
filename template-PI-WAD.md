@@ -28,19 +28,78 @@
 
 ### 2.1. Personas (Semana 01)
 
-*Posicione aqui sua(s) Persona(s) em forma de texto markdown com imagens, ou como imagem de template preenchido. Atualize esta seção ao longo do módulo se necessário.*
+&emsp; As personas são representações fictícias dos usuários finais do sistema, criadas a partir de dados reais e observações. Elas são fundamentais para orientar o desenvolvimento de soluções que atendam às necessidades, objetivos e comportamentos dos usuários. Neste projeto, foram desenvolvidas personas com base em perfis de engenheiros e técnicos que atuam na área de inspeção predial, com o intuito de entender suas dores, necessidades e preferências ao utilizar ferramentas digitais no campo. Estas personas serão a base para a criação de funcionalidades que se alinhem diretamente aos desafios enfrentados pelos usuários.
 
-![Persona 1](assets/uxPersona1.jpg)
+<div style="text-align: center;">
+    <img src="assets/uxPersona1.jpg" alt="Persona 1" width="400">
+    <br>
+    <sub>Figura 1 - Persona 1</sub>
+    <br>
+    <sup>Fonte: Ana Ribeiro, Faculdade Inteli 2025</sup>
+</div>
 
-![Persona 2](assets/uxPersona2.jpg)
 
-![Persona 3](assets/uxPersona3.jpg)
+<div style="text-align: center;">
+    <img src="assets/uxPersona2.jpg" alt="Persona 2" width="400">
+    <br>
+    <sub>Figura 2 - Persona 2</sub>
+    <br>
+    <sup>Fonte: Equipe Primesit, Faculdade Inteli 2025</sup>
+</div>
 
-![Persona 4](assets/uxPersona4.jpg)
+
+<div style="text-align: center;">
+    <img src="assets/uxPersona3.jpg" alt="Persona 3" width="400">
+    <br>
+    <sub>Figura 3 - Persona 3</sub>
+    <br>
+    <sup>Fonte: Equipe Primesit, Faculdade Inteli 2025</sup>
+</div>
+
+
+<div style="text-align: center;">
+    <img src="assets/uxPersona4.jpg" alt="Persona 4" width="400">
+    <br>
+    <sub>Figura 4 - Persona 4</sub>
+    <br>
+    <sup>Fonte: Equipe Primesit, Faculdade Inteli 2025</sup>
+</div>
+
 
 ### 2.2. User Stories (Semana 01)
+&emsp; As User Stories são uma técnica ágil utilizada para descrever funcionalidades do sistema a partir da perspectiva do usuário. Elas são essenciais para garantir que as soluções atendam às reais necessidades dos usuários e para orientar o time de desenvolvimento nas entregas de valor. Neste projeto, foram criadas User Stories para representar funcionalidades-chave que visam facilitar o trabalho de inspeção predial, trazendo praticidade, eficiência e organização para o processo de coleta de dados e geração de relatórios. Essas histórias guiarão a implementação de ferramentas que atendem aos desafios identificados nas personas.
 
-*Posicione aqui a lista de User Stories levantadas para o projeto. Siga o template de User Stories e utilize a referência USXX para numeração (US01, US02, US03, ...). Indique todas as User Stories mapeadas, mesmo aquelas que não forem implementadas ao longo do projeto. Não se esqueça de explicar o INVEST de 1 User Storie prioritária.*
+#### US01 - Cláudia Tavares
+Como engenheira civil, quero uma ferramenta que me permita coletar dados, fotos e observações no local da inspeção em tempo real, para que eu possa agilizar a coleta de informações e evitar retrabalho.
+
+#### US02 - Marcelo Antunes
+Como engenheiro civil, quero uma plataforma que me permita integrar diferentes tipos de arquivos e fontes de informação em um único relatório, para que eu possa ter uma visão mais completa e confiável da inspeção.
+
+#### US03 - Rafael Souza
+Como técnico em edificações, quero um aplicativo móvel intuitivo que permita o upload fácil de fotos, vídeos e notas diretamente do celular, para que eu possa coletar e organizar informações de forma rápida e prática durante as inspeções.
+
+
+
+&emsp; Após definir as User Stories, é fundamental analisar cada uma delas sob a ótica do modelo INVEST. Essa abordagem ajuda a garantir que as histórias sejam bem estruturadas, viáveis e entreguem valor ao usuário de forma eficaz. O modelo INVEST — que significa Independente, Negociável, Valiosa, Estimável, Pequena e Testável — oferece critérios claros para validar a qualidade de cada User Story, assegurando que sejam funcionais, fáceis de desenvolver e testáveis. A seguir, será realizada uma análise detalhada de uma das User Stories com base nesses critérios.
+
+
+#### I – Independente
+A User Story **US01** é independente, pois não depende de outras funcionalidades ou User Stories para ser desenvolvida. Ela descreve uma funcionalidade autossuficiente de coleta de dados no local da inspeção, o que pode ser implementado isoladamente.
+
+#### N – Negociável
+A funcionalidade descrita é negociável. O comportamento desejado — coleta de dados, fotos e observações em tempo real — pode ser discutido e ajustado conforme as necessidades do usuário ou do desenvolvimento do sistema. A forma de implementação pode ser flexível, permitindo negociações durante a criação da solução.
+
+#### V – Valiosa
+Essa User Story é valiosa para o usuário, pois atende diretamente a uma necessidade de Cláudia: agilizar o processo de coleta de informações durante as inspeções e evitar retrabalho. Isso economiza tempo e melhora a eficiência do processo de inspeção, o que é uma necessidade importante para ela.
+
+#### E – Estimável
+A User Story é estimável, pois é possível calcular o esforço necessário para criar a funcionalidade. Os elementos envolvidos (coletar dados, tirar fotos, fazer anotações em tempo real) são atividades claras e mensuráveis, permitindo uma estimativa razoável de tempo e recursos necessários.
+
+#### S – Pequena (Small)
+A User Story é pequena o suficiente para ser concluída em um ciclo de desenvolvimento. Ela pode ser dividida em subtarefas menores, como a implementação da funcionalidade de upload de fotos, de dados e de observações, o que facilita o processo de entrega.
+
+#### T – Testável
+A User Story é testável, pois é possível verificar se a ferramenta está coletando dados, fotos e observações corretamente e em tempo real. Os testes podem ser realizados em diferentes cenários de inspeção para garantir que os dados sejam coletados sem falhas.
 
 ---
 
