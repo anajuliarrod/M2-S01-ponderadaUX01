@@ -62,36 +62,36 @@
 
 
 ### 2.2. User Stories (Semana 01)
-As **User Stories** são uma técnica ágil utilizada para descrever funcionalidades do sistema a partir da perspectiva do usuário. Elas são essenciais para garantir que as soluções atendam às reais necessidades dos usuários e para orientar o time de desenvolvimento nas entregas de valor. Neste projeto, foram criadas **User Stories** para representar funcionalidades-chave que visam facilitar o gerenciamento de tarefas, melhorando a organização, produtividade e eficiência no dia a dia dos profissionais. Essas histórias guiarão a implementação de ferramentas que atendem aos desafios identificados nas personas.
+&emsp; As User Stories são uma técnica ágil utilizada para descrever funcionalidades do sistema a partir da perspectiva do usuário. Elas são essenciais para garantir que as soluções atendam às reais necessidades dos usuários e para orientar o time de desenvolvimento nas entregas de valor. Neste projeto, foram criadas User Stories para representar funcionalidades-chave que visam facilitar o gerenciamento de tarefas, promovendo mais organização, produtividade e eficiência no dia a dia dos profissionais. Essas histórias guiarão a implementação de ferramentas que atendem aos desafios identificados nas personas.
 
 #### US01 - Cláudia Tavares
-Como engenheira civil, quero uma ferramenta que me ajude a organizar minhas tarefas de maneira eficiente, com integração entre diferentes atividades e prazos, para que eu consiga gerenciar meu tempo de forma otimizada e sem sobrecarga.
+Como engenheira civil, quero uma ferramenta que me ajude a organizar e categorizar minhas tarefas de forma clara, para que eu consiga gerenciar meus projetos de maneira eficiente e sem me sobrecarregar.
 
 #### US02 - Marcelo Antunes
-Como engenheiro civil, quero uma plataforma que permita visualizar e gerenciar minhas tarefas de forma clara, priorizando-as com base em urgência e importância, para que eu possa ser mais produtivo e cumprir meus prazos sem estresse.
+Como engenheiro civil, quero um sistema que permita priorizar tarefas com base em níveis de urgência e importância, para que eu possa focar no que realmente é essencial e entregar melhores resultados.
 
-#### US03 - Rafael Souza
-Como técnico em edificações, quero um aplicativo móvel simples que me permita adicionar e acompanhar minhas tarefas de campo de maneira prática, para que eu possa manter o foco no que precisa ser feito e não me perder nas demandas diárias.
+#### US03 - Beatriz Lemos
+Como engenheira de manutenção, quero uma plataforma rápida e prática para criar e acompanhar tarefas, para que eu possa otimizar meu tempo e me concentrar no trabalho em campo sem complicações.
 
-&emsp; Após definir as **User Stories**, é fundamental analisar cada uma delas sob a ótica do modelo **INVEST**. Essa abordagem ajuda a garantir que as histórias sejam bem estruturadas, viáveis e entreguem valor ao usuário de forma eficaz. O modelo **INVEST** — que significa **Independente**, **Negociável**, **Valiosa**, **Estimável**, **Pequena** e **Testável** — oferece critérios claros para validar a qualidade de cada **User Story**, assegurando que sejam funcionais, fáceis de desenvolver e testáveis. A seguir, será realizada uma análise detalhada de uma das **User Stories** com base nesses critérios.
+&emsp; Após definir as User Stories, é fundamental analisar cada uma delas sob a ótica do modelo INVEST. Essa abordagem ajuda a garantir que as histórias sejam bem estruturadas, viáveis e entreguem valor ao usuário de forma eficaz. O modelo INVEST — que significa Independente, Negociável, Valiosa, Estimável, Pequena e Testável — oferece critérios claros para validar a qualidade de cada User Story, assegurando que sejam funcionais, fáceis de desenvolver e testáveis. A seguir, será realizada uma análise detalhada de uma das User Stories com base nesses critérios.
 
 #### I – Independente
-A **User Story** **US01** é independente, pois não depende de outras funcionalidades ou **User Stories** para ser desenvolvida. Ela descreve uma funcionalidade autossuficiente de organização de tarefas, que pode ser implementada isoladamente.
+A User Story **US01** é independente, pois não depende de outras funcionalidades ou User Stories para ser desenvolvida. Ela descreve uma funcionalidade autossuficiente de organização e categorização de tarefas, podendo ser implementada de forma isolada.
 
 #### N – Negociável
-A funcionalidade descrita é negociável. O comportamento desejado — a organização eficiente das tarefas, com integração de atividades e prazos — pode ser discutido e ajustado conforme as necessidades do usuário ou o desenvolvimento do sistema. A forma de implementação pode ser flexível, permitindo negociações durante a criação da solução.
+A funcionalidade descrita é negociável. O comportamento desejado — organizar e categorizar tarefas — pode ser discutido e ajustado conforme as necessidades do usuário ou do desenvolvimento do sistema, permitindo flexibilidade nas soluções.
 
 #### V – Valiosa
-Essa **User Story** é valiosa para o usuário, pois atende diretamente a uma necessidade de **Cláudia**: organizar suas tarefas de forma eficiente e sem sobrecarga. Isso ajuda a economizar tempo e a reduzir o estresse ao gerenciar múltiplas responsabilidades, uma preocupação importante para ela.
+Essa User Story é valiosa para o usuário, pois atende diretamente a uma necessidade de **Cláudia**: ter suas tarefas organizadas de maneira clara e eficiente, reduzindo a sobrecarga de trabalho e aumentando sua produtividade.
 
 #### E – Estimável
-A **User Story** é estimável, pois é possível calcular o esforço necessário para criar a funcionalidade. Os elementos envolvidos (organizar tarefas, integrar atividades e definir prazos) são atividades claras e mensuráveis, permitindo uma estimativa razoável de tempo e recursos necessários.
+A User Story é estimável, pois é possível calcular o esforço necessário para criar a funcionalidade. As ações de categorizar e organizar tarefas são claras e mensuráveis, permitindo uma estimativa razoável de tempo e recursos.
 
 #### S – Pequena (Small)
-A **User Story** é pequena o suficiente para ser concluída em um ciclo de desenvolvimento. Ela pode ser dividida em subtarefas menores, como a implementação de funcionalidades para adicionar tarefas, definir prazos e categorizar atividades, facilitando o processo de entrega.
+A User Story é pequena o suficiente para ser concluída em um ciclo de desenvolvimento. Ela pode ser dividida em subtarefas como criação de categorias, adição de tarefas e visualização organizada, facilitando o processo de entrega.
 
 #### T – Testável
-A **User Story** é testável, pois é possível verificar se o sistema está organizando as tarefas corretamente, com integração entre atividades e prazos. Os testes podem ser realizados em diferentes cenários de uso, garantindo que a funcionalidade esteja funcionando como esperado.
+A User Story é testável, pois é possível verificar se as tarefas estão sendo corretamente organizadas e categorizadas no sistema. Os testes podem simular diferentes fluxos de criação e organização de tarefas para validar a funcionalidade.
 
 
 ---
